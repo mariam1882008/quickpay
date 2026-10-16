@@ -2,7 +2,7 @@
 ## Project over view
 * **Quick pay is a java program which help you transfer money
 ## Admin Panel
-*show statistics : show you every information you want to know like active or blocked transaction
+* show statistics : show you every information you want to know like active or blocked transaction
 * search user: let you search for a specific user
 * view all users: let you see all information about all of users 
 * update: permit you to update your info
